@@ -2,8 +2,6 @@
 
 ## 📁 Project Structure
 
-Plaintext
-
 ```
 RDCPlace/
 ├── PPO_train_fast_stand.py    # [Entry Point] Main training script (arg parsing, training loop, logging)
